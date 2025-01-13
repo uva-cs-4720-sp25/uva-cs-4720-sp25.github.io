@@ -9,4 +9,4 @@ nav_order: 3
 
 The course schedule is subject to change. Minor changes such as individual lecture topics may change without announcement. However, any major changes or changes to assignment deadlines will be announced.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSExqlBkKZA6Vm0lsARtmdRoRwQhJYARKkul7HsMttaVzWJxUSi46iUgnSTutfUuRxkZEUAYSNWVAtr/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1200" height="720"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSsFueA6Bru_DkOUlUP1IUJcTSTlNrhRm6zjk2REaudKRnbPnG-VOF0hMifP1oTlZoXuwewMJ5XjVs/pubhtml?widget=true&amp;headers=false" width="1200" height="720"></iframe>
