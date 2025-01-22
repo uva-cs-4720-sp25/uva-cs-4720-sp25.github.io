@@ -33,8 +33,8 @@ Mondays, Wednesdays, and Fridays @ 3:30 PM-4:45 PM in Thornton Hall A120
 __Instructor:__ Prof. Will McBurney  
 Office: Rice 404   
 Office Hours: (in-person only)  
-* Wednesdays 10:00 a.m. - 11:30 a.m., 1:30 p.m. to 3:00 p.m.
-* Fridays 1:30 p.m. - 3:30 p.m.  
+* Wednesdays 1:30 p.m. to 3:00 p.m.
+* Fridays 10:00 a.m. - 11:30 a.m., 1:30 p.m. - 3:30 p.m.  
 
 Email: [mcburney@virginia.edu](mailto:mcburney@virginia.edu)    
 Website: [https://www.cs.virginia.edu/~pm8fc/](https://www.cs.virginia.edu/~pm8fc/)    
