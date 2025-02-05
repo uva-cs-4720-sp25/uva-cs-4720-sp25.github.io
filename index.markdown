@@ -27,7 +27,7 @@ Links are forthcoming
 [GitHub](https://github.com/uva-cs-4720-sp25){: .btn .btn-primary .mr-2  }
 
 ## Lecture Sessions
-Mondays, Wednesdays, and Fridays @ 3:30 PM-4:45 PM in Thornton Hall A120  
+Mondays, and Wednesdays @ 3:30 PM-4:45 PM in Thornton Hall A120  
 
 ## Staff Information
 __Instructor:__ Prof. Will McBurney  
@@ -41,4 +41,16 @@ Website: [https://www.cs.virginia.edu/~pm8fc/](https://www.cs.virginia.edu/~pm8f
 
 ## TA Office Hours
 
-TA Office Hours forthcoming
+Unless otherwise listed, office hours are in Rice Hall 442
+
+### Grant Sweeney
+
+Tues/Thur - 3-4 p.m.
+
+### Andrew Cornfeld
+
+Wed. 5-7 p.m.
+
+### Thomas Nguyen
+
+Thur. 1-3 p.m.
