@@ -45,12 +45,12 @@ Unless otherwise listed, office hours are in Rice Hall 442
 
 ### Grant Sweeney
 
-Tues/Thur - 3-4 p.m.
+Tues/Thur - 3-4 p.m. - In the Thornton Hall Stacks
 
 ### Andrew Cornfeld
 
-Wed. 5-7 p.m.
+Wed. 5-7 p.m. - Rice Hall 442
 
 ### Thomas Nguyen
 
-Thur. 1-3 p.m.
+Thur. 1-3 p.m. - Rice Hall 442
