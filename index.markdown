@@ -53,4 +53,4 @@ Wed. 5-7 p.m. - Rice Hall 442
 
 ### Thomas Nguyen
 
-Thur. 1-3 p.m. - Rice Hall 442
+Tues and Thur. 2-3 p.m. - Rice Hall 442
